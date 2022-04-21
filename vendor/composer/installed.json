@@ -4192,6 +4192,50 @@
             "install-path": "../ramsey/uuid"
         },
         {
+            "name": "sangtm97/mypackage",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sangtm97/mypackage.git",
+                "reference": "507b32d3dc54059a560b6160c2583ec488f9b7d4"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sangtm97/mypackage/zipball/507b32d3dc54059a560b6160c2583ec488f9b7d4",
+                "reference": "507b32d3dc54059a560b6160c2583ec488f9b7d4",
+                "shasum": ""
+            },
+            "time": "2022-04-09T07:52:46+00:00",
+            "default-branch": true,
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Sangtm97\\Mypackage\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sangtm97",
+                    "email": "minhsangtrieu94@gmail.com"
+                }
+            ],
+            "description": "sangtm97",
+            "keywords": [
+                "sangtm97"
+            ],
+            "support": {
+                "issues": "https://github.com/sangtm97/mypackage/issues",
+                "source": "https://github.com/sangtm97/mypackage/tree/main"
+            },
+            "install-path": "../sangtm97/mypackage"
+        },
+        {
             "name": "sebastian/cli-parser",
             "version": "1.0.1",
             "version_normalized": "1.0.1.0",
